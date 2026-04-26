@@ -25,9 +25,7 @@ This project implements sentiment classification models that predict whether a m
 
 ## 🚀 Live Demo
 
-**Streamlit App:** [Add your deployed link here]
-
-> Replace the link above with your Streamlit Cloud or other deployment URL
+**Streamlit App:** https://imdb-sentiment-analysis-using-rnn.streamlit.app/
 
 ## 📋 Requirements
 
